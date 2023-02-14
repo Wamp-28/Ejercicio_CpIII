@@ -7,6 +7,7 @@ public class Principal {
 
         System.out.println("BIENVENIDOS A LA CLASE CPIII");
 
+        int var = 5;
 
     }
 
