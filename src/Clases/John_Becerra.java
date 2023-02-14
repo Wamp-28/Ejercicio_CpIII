@@ -8,8 +8,6 @@ public class John_Becerra {
         String hobby="Me gustan los videojuegos";
         String disgustos="El egoismo";
         String animal="Tiburon";
-
-
         System.out.println("nombre:"+nombre);
         System.out.println("Semestre:"+semestre+"no");
         System.out.println("hobby:"+hobby);
