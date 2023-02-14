@@ -9,7 +9,7 @@ public class Esteban_Ruiz {
 
         int semestre = 9;
 
-        String hobby = "Jugar y ver futbol";
+        String hobby = "Jugar y ver futbol ";
 
         String animal = "gato";
     }
