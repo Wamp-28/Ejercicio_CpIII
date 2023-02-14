@@ -8,7 +8,7 @@ public class Laura_Lamprea {
         System.out.println(10);
         System.out.println("pintar, dibujar");
         System.out.println("Escribir");
-        System.out.println("Gato");
+        System.out.println("Gatos");
 
 
     }
