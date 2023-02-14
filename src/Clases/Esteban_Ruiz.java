@@ -12,6 +12,12 @@ public class Esteban_Ruiz {
         String hobby = "Jugar y ver futbol ";
 
         String animal = "gato";
+
+        System.out.println(id);
+        System.out.println(nombre);
+        System.out.println(semestre);
+        System.out.println(hobby);
+        System.out.println(animal);
     }
 
 }
